@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "167173513192",
+    "firebase_url": "https://fir-authenticationkotlin.firebaseio.com",
+    "project_id": "fir-authenticationkotlin",
+    "storage_bucket": "fir-authenticationkotlin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:167173513192:android:2a8f55f1a0480748",
+        "android_client_info": {
+          "package_name": "com.example.shipra.firebaseauthenticationkotlin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "167173513192-ue0bdji75ojri2o2v9lpujc0lv197g6f.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvr50tko42YrDpMIgvEWBA-e6h8SuiVWQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
